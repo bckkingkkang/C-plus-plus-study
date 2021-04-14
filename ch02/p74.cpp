@@ -1,4 +1,4 @@
-// ¼¼ °³ÀÇ Á¤¼ö Áß¿¡¼­ Å« ¼ö Ã£±â
+// ì„¸ ê°œì˜ ì •ìˆ˜ ì¤‘ì—ì„œ í° ìˆ˜ ì°¾ê¸°
 #include <iostream>
 using namespace std;
 
@@ -6,7 +6,7 @@ int main() {
 	int a, b, c;
 	int largest;
 
-	cout << "¼¼ °³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ";
+	cout << "ì„¸ ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ";
 	cin >> a >> b >> c;
 
 	if (a > b && a > c)
@@ -16,7 +16,7 @@ int main() {
 	else
 		largest = c;
 
-	cout << "°¡Àå Å« Á¤¼ö´Â " << largest << "ÀÔ´Ï´Ù." << endl;
+	cout << "ê°€ì¥ í° ì •ìˆ˜ëŠ” " << largest << "ì…ë‹ˆë‹¤." << endl;
 
 	return 0;
 }

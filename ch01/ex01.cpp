@@ -1,4 +1,4 @@
-// 1Àå ¿¬½À¹®Á¦ 1
+// 1ì¥ ì—°ìŠµë¬¸ì œ 1
 
 #include <string.h>
 #include <iostream>
@@ -6,17 +6,17 @@
 using namespace std;
 
 int main() {
-	string subject; // ÁÖ¾î
-	string verb; // µ¿»ç
-	string object; // ¸ñÀû¾î
+	string subject; // ì£¼ì–´
+	string verb; // ë™ì‚¬
+	string object; // ëª©ì ì–´
 
-	cout << "ÁÖ¾î : ";
+	cout << "ì£¼ì–´ : ";
 	cin >> subject;
 
-	cout << "µ¿»ç : ";
+	cout << "ë™ì‚¬ : ";
 	cin >> verb;
 
-	cout << "¸ñÀû¾î : ";
+	cout << "ëª©ì ì–´ : ";
 	cin >> object;
 
 	cout << endl << subject << " " << verb << " " << object << endl;

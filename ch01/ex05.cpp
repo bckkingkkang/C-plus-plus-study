@@ -1,4 +1,4 @@
-// 1Àå ¿¬½À¹®Á¦ 5
+// 1ìž¥ ì—°ìŠµë¬¸ì œ 5
 
 #include <string.h>
 #include <iostream>
@@ -10,14 +10,12 @@ int main() {
 
 	float pyeong;
 
-	float squareMeter;
-
-	cout << "Æò : ";
+	cout << "í‰ : ";
 	cin >> pyeong;
 
-	squareMeter = pyeong * 3.3058;
+	const float squareMeter = pyeong * 3.3058;
 
-	cout << endl << "Æò¹æ¹ÌÅÍ : " << squareMeter << endl;
+	cout << endl << "í‰ë°©ë¯¸í„° : " << squareMeter << endl;
 
 	return 0;
 }

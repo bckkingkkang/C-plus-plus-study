@@ -1,4 +1,4 @@
-// ÇÔ¼ö ¸¸µé±â
+// í•¨ìˆ˜ ë§Œë“¤ê¸°
 
 #include <iostream>
 using namespace std;
@@ -9,7 +9,7 @@ int square(int n) {
 
 int main() {
 	int n;
-	cout << "Á¦°öÇÒ Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À : ";
+	cout << "ì œê³±í•  ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì‹œì˜¤ : ";
 	cin >> n;
 
 	cout << square(n) << endl;

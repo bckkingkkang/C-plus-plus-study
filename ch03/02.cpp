@@ -1,4 +1,4 @@
-// swap() ÇÔ¼ö ¸¸µé±â
+// swap() í•¨ìˆ˜ 
 
 #include <iostream>
 using namespace std;

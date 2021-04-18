@@ -4,12 +4,12 @@
 using namespace std;
 
 int square(int i) {
-	cout << "square(int) È£Ãâ" << endl;
+	cout << "square(int) í˜¸ì¶œ" << endl;
 	return i * i;
 }
 
 double square(double i) {
-	cout << "square(double) È£Ãâ" << endl;
+	cout << "square(double) " << endl;
 	return i * i;
 }
 

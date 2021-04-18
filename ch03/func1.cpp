@@ -13,6 +13,6 @@ int max(int x, int y) {
 int main() {
 	int n;
 	n = max(2, 3);
-	cout << "¿¬»ê °á°ú : " << n << endl;
+	cout << "ì—°ì‚° ê²°ê³¼ : " << n << endl;
 	return 0;
 }

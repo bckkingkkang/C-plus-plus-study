@@ -1,4 +1,4 @@
-// Car Å¬·¡½º ÀÛ¼º
+// Car í´ë˜ìŠ¤ ì‘ì„±
 
 #include <iostream>
 #include <string>

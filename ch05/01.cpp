@@ -1,4 +1,4 @@
-// Rect Å¬·¡½º
+// Rect í´ë˜ìŠ¤
 
 #include <iostream>
 using namespace std;
@@ -21,7 +21,7 @@ int Rectangle::calcArea() {
 
 int main() {
 	Rectangle r{ 3,4 };
-	cout << "»ç°¢ÇüÀÇ ³ĞÀÌ : " << r.calcArea() << "\n";
+	cout << "ì‚¬ê°í˜•ì˜ ë„“ì´ : " << r.calcArea() << "\n";
 
 	return 0;
 }

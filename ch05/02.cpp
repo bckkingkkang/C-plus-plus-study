@@ -1,4 +1,4 @@
-// Circle Å¬·¡½º
+// Circle í´ë˜ìŠ¤
 
 #include <iostream>
 #include <string>

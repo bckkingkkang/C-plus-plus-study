@@ -1,4 +1,4 @@
-// ©Ь╣Июг ╟Фаж ╟тюс
+// Л⌡░К⌠╓Л²≤ Й╡╫Лё╪ Й╡▄Л·└
 
 #include <iostream>
 #include <windows.h>

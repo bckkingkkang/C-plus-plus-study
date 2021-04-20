@@ -10,13 +10,13 @@ int main(void) {
 		v.push_back(i);
 	}
 
-	cout << "ÇöÀçÀÇ v : ";
+	cout << "í˜„ìž¬ì˜ v : ";
 	for (auto& c : v) {
 		cout << c << " ";
 	}
 	cout << endl;
 
-	cout << "»èÁ¦ ¿ä¼Ò : ";
+	cout << "ì‚­ì œ ìš”ì†Œ : ";
 	while (v.empty() != true) {
 		cout << v.back() << " ";
 		v.pop_back();

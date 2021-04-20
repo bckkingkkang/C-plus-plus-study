@@ -1,4 +1,4 @@
-// »ç°¢ÇüÀº Å¬·¡½º·Î ³ªÅ¸³»ÀÚ
+// ì‚¬ê°í˜•ì€ í´ë˜ìŠ¤ë¡œ ë‚˜íƒ€ë‚´ì
 
 #include <iostream>
 using namespace std;
@@ -18,7 +18,7 @@ int main() {
 	obj.height = 4;
 	int area = obj.calcArea();
 
-	cout << "»ç°¢ÇüÀÇ ³ÏÀÌ : " << area << endl;
+	cout << "ì‚¬ê°í˜•ì˜ ë„’ì´ : " << area << endl;
 
 	return 0;
 }

@@ -1,4 +1,4 @@
-// 9Àå ¿¬½À¹®Á¦ 5
+// 9ìž¥ ì—°ìŠµë¬¸ì œ 5
 
 #include <iostream>
 using namespace std;
@@ -28,7 +28,7 @@ int Box::count = 0;
 
 int main() {
 	Box box;
-	cout << "ÀüÃ¼ °´Ã¼ ¼ö : ";
+	cout << "ì „ì²´ ê°ì²´ ìˆ˜ : ";
 	cout << box.count;
 	return 0;
 }

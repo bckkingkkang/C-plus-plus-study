@@ -1,4 +1,4 @@
-// µµÇü ¿¹Á¦ #2
+// ÂµÂµÃ‡Ã¼ Â¿Â¹ÃÂ¦ #2
 
 #include <iostream>
 #include <windows.h>

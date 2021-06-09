@@ -1,4 +1,4 @@
-// µµÇü ¿¹Á¦ #2
+// 도형 예제 #2
 
 #include <iostream>
 #include <windows.h>

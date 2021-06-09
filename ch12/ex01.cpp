@@ -1,4 +1,4 @@
-// µµÇü ¿¹Á¦ #1
+// 도형 예제 #1
 #include <iostream>
 using namespace std;
 
